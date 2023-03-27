@@ -1,7 +1,7 @@
 ### Hi there 👋
 I Am Ainy Gupta
 
-I’m Python Full Stack Developer 🌱
+I’m Full Stack Python Developer 🌱
 
 How to reach me:Email- ainygupta503@gmail.com 📧
 
