@@ -7,7 +7,9 @@
 <p dir="auto">Email : <a href="mailto:ainygupta503@gmail.com">ainygupta503@gmail.com</a></p>
 
 
-<p dir="auto"><a href="[http://127.0.0.1:5500/port/index.html](https://img.shields.io/badge/Portfolio-Your_Portfolio_Color_Here?style=for-the-badge)](https://[link-to-your-portfolio.com](http://127.0.0.1:5500/port/index.html)/)"><img src="https://img.shields.io/badge/My%20Portfolio-blue?style=for-the-badge" alt="Portfolio" data-canonical-src="" style="max-width: 100%;"></a>
+<p dir="auto"><a href="https://www.linkedin.com/in/ainy-gupta-882917242/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/" alt="Linkedin" data-canonical-src="" style="max-width: 100%;"></a>
+
+  
 <p dir="auto"><a href="https://www.linkedin.com/in/ainy-gupta-882917242/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/" alt="Linkedin" data-canonical-src="" style="max-width: 100%;"></a>
 
 
