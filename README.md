@@ -10,7 +10,7 @@
 <p dir="auto"><a href="file:///C:/Users/91756/Downloads/Personal%20Portfolio%20Website.html"><img src="https://img.shields.io/badge/Portfolio-Your_Portfolio_Color_Here?style=for-the-badge&logo=Portfolio&logoColor=white)]((file:///C:/Users/91756/Downloads/Personal%20Portfolio%20Website.html))" alt="Portfolio" data-canonical-src="" style="max-width: 100%;"></a>
 
   
-<p dir="auto"><a href="file:///C:/Users/91756/Downloads/Personal%20Portfolio%20Website.html"><img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=Portfolio&logoColor=white)](file:///C:/Users/91756/Downloads/Personal%20Portfolio%20Website.html" alt="Portfolio" data-canonical-src="" style="max-width: 100%;"></a>
+<p dir="auto"><a href="file:///C:/Users/91756/Downloads/Personal%20Portfolio%20Website.html"><img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=Portfolio&logoColor=white)]" alt="Portfolio" data-canonical-src="" style="max-width: 100%;"></a>
   
 <p dir="auto"><a href="https://www.linkedin.com/in/ainy-gupta-882917242/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/" alt="Linkedin" data-canonical-src="" style="max-width: 100%;"></a>
 
