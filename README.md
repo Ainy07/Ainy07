@@ -46,6 +46,8 @@ With a strong foundation in Python programming and database management, I bring 
 - Email: [ainygupta00@gmail.com](mailto:ainygupta00@gmail.com)  
 - LinkedIn: [linkedin.com/in/ainygupta-882917242](https://www.linkedin.com/in/ainygupta-882917242)  
 - GitHub: [github.com/Ainy07](https://github.com/Ainy07)
+- Portfolio: [https://ainy07.github.io/Portfolio/](https://ainy07.github.io/Portfolio/)
+  
 
 ---
 
