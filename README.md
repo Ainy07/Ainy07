@@ -22,7 +22,7 @@ With a strong foundation in Python programming and database management, I bring 
   Git, GitHub, Docker, Putty, VS Code, Linux  
 
 - **Backend Features & Integrations:**  
-  JWT Authentication, Encryption, Push Notifications, SMS Gateway APIs, Firebase Integration, Redis Caching, API Rate Limiting  
+  JWT Authentication, Encryption, Push Notifications, SMS Gateway APIs, Firebase Integration, Redis Caching, API Rate Limiting  , CI/CD
 
 - **Frontend:**  
   HTML, CSS, JavaScript, jQuery, Bootstrap  
