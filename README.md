@@ -42,6 +42,15 @@ With a strong foundation in Python programming and database management, I bring 
 
 ---
 
+
+## 🌟 Live Project
+
+[DRF Secure API (JWT + Encryption + CI/CD)](https://ainy07.pythonanywhere.com/) 🚀  
+A secure Django REST API live on **PythonAnywhere**.
+
+
+---  
+
 ## 📫 Contact Me  
 - Email: [ainygupta00@gmail.com](mailto:ainygupta00@gmail.com)  
 - LinkedIn: [linkedin.com/in/ainygupta-882917242](https://www.linkedin.com/in/ainygupta-882917242)  
