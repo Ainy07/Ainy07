@@ -62,7 +62,12 @@ GitHub Repository: [HRMS Lite Source Code](https://github.com/Ainy07/HRMS-Lite)
 HRMS Lite is a full-stack Human Resource Management System built with **Django REST Framework and modern frontend technologies**. It includes employee management, API-based architecture, and live deployment using **Vercel (frontend)** and **Railway (backend)**.
 
 ---  
+## 📄 Resume
 
+- 📥 Download Resume: [View / Download Resume](https://drive.google.com/file/d/1yM7ga-M154poL7z9oFvNjsqbhknBXKvq/view?usp=sharing)
+
+---
+  
 ## 📫 Contact Me
 
 - 📧 Email: [ainygupta00@gmail.com](mailto:ainygupta00@gmail.com)  
