@@ -46,9 +46,9 @@ With a strong foundation in Python programming and database management, I bring 
 ## 🌟 Live Project
 
 ### 🧑‍💼 HRMS Lite – Full Stack Application
-Frontend: https://hrms-lite-6lxp.vercel.app  
-Backend API: https://hrms-lite-production-fa7e.up.railway.app/docs  
-GitHub Repository: https://github.com/Ainy07/HRMS-Lite  
+Frontend: [HRMS Lite Frontend](https://hrms-lite-6lxp.vercel.app)  
+Backend API: [Backend Documentation](https://hrms-lite-production-fa7e.up.railway.app/docs)  
+GitHub Repository: [HRMS Lite Source Code](https://github.com/Ainy07/HRMS-Lite) 
 
 HRMS Lite is a full-stack Human Resource Management System built with **Django REST Framework and modern frontend technologies**. It includes employee management, API-based architecture, and live deployment using **Vercel (frontend)** and **Railway (backend)**.
 
