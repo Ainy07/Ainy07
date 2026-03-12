@@ -38,13 +38,15 @@ Pandas, NumPy, Matplotlib
 
 ---
 
-## 🚀 What I’m Working On  
-- Designing and developing scalable backend architectures and RESTful APIs using Django & DRF  
-- Building real-time notification systems and company dashboards  
-- Implementing secure authentication and encryption mechanisms  
-- Integrating third-party services including Firebase and SMS APIs for enhanced functionality  
-- Optimizing application performance using Redis caching and cron jobs  
-- Automating deployments and environment setups with Docker and Putty  
+## 🚀 What I’m Working On
+
+- Designing and developing **scalable backend architectures and RESTful APIs** using Django, DRF, and FastAPI  
+- Building **real-time notification systems and dashboards** for production applications  
+- Implementing **secure authentication, API security, and encryption mechanisms** (JWT, role-based access)  
+- Integrating **third-party services** like Firebase, SMS Gateway APIs, and external platforms  
+- Optimizing application performance using **Redis caching, background tasks, and cron jobs**  
+- Writing **unit tests and API documentation** using tools like Swagger/OpenAPI  
+- Automating deployments with **Docker and CI/CD pipelines (GitHub Actions)**  
 
 ---
 
