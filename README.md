@@ -12,23 +12,29 @@ With a strong foundation in Python programming and database management, I bring 
 
 ## 🛠️ Technical Skills
 
-- **Languages & Frameworks:**  
-  Python, Django, Django REST Framework, Flask, FastAPI  
+**Languages & Frameworks:**  
+Python, Django, Django REST Framework, FastAPI, Flask
 
-- **Databases:**  
-  PostgreSQL, MySQL, NoSQL, SQLite  
+**Backend & API Development:**  
+RESTful APIs, JWT Authentication, OAuth2, API Security, Encryption, Rate Limiting, Swagger/OpenAPI Documentation
 
-- **DevOps & Tools:**  
-  Git, GitHub, Docker, Putty, VS Code, Linux  
+**Databases & ORM:**  
+PostgreSQL, MySQL, MongoDB, SQLite, Django ORM, SQL
 
-- **Backend Features & Integrations:**  
-  JWT Authentication, Encryption, Push Notifications, SMS Gateway APIs, Firebase Integration, Redis Caching, API Rate Limiting  , CI/CD
+**Caching & Performance:**  
+Redis, Cron Jobs, Background Tasks, Performance Optimization
 
-- **Frontend:**  
-  HTML, CSS, JavaScript, jQuery, Bootstrap  
+**Cloud & DevOps:**  
+AWS (Basics), Docker, CI/CD (GitHub Actions), Deployment, Firebase Integration
 
-- **Data Science Libraries:**  
-  Pandas, NumPy  
+**Tools & Development:**  
+Git, GitHub, Postman, Pytest, Unit Testing, Linux, VS Code, Putty, JSON
+
+**Frontend:**  
+HTML, CSS, JavaScript, React.js, jQuery, Bootstrap, AJAX, Axios
+
+**Data & Analytics:**  
+Pandas, NumPy, Matplotlib
 
 ---
 
