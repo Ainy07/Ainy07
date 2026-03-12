@@ -1,12 +1,13 @@
-# Hi there, I'm Ainy Gupta 👋  
-**Python Developer | Django & REST Framework Specialist | Backend Engineer**
-
----
+# Hi there, I'm Ainy Gupta 👋
+**Backend Software Engineer | Python | Django | FastAPI | REST APIs**
 
 ## About Me
-I am a passionate and motivated Python developer with over **2 years of hands-on experience** building robust backend systems and APIs. Skilled in Django and Django REST Framework, I create scalable, secure, and efficient web applications that solve real-world problems.
 
-With a strong foundation in Python programming and database management, I bring deep expertise in API development, authentication, encryption, and system integration. I am equally comfortable working on frontend technologies like HTML, CSS, JavaScript, and Bootstrap to deliver complete solutions.
+I am a passionate Python developer with **2+ years of hands-on experience** building scalable backend systems and high-performance APIs. I specialize in **Django, Django REST Framework, and FastAPI**, focusing on designing secure, efficient, and maintainable backend architectures.
+
+I have strong experience in **RESTful API development, authentication (JWT/OAuth), API security, Redis caching, and database integration** using MySQL and PostgreSQL. I enjoy solving real-world problems by building reliable backend services and optimizing application performance.
+
+Along with backend development, I also work with **HTML, CSS, JavaScript, and Bootstrap** when needed to deliver complete end-to-end solutions.
 
 ---
 
