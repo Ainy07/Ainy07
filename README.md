@@ -64,7 +64,7 @@ HRMS Lite is a full-stack Human Resource Management System built with **Django R
 ---  
 ## 📄 Resume
 
-- 📥 Download Resume: [View / Download Resume](https://drive.google.com/file/d/1yM7ga-M154poL7z9oFvNjsqbhknBXKvq/view?usp=sharing)
+- 📥 Download Resume: [View / Download Resume](https://drive.google.com/file/d/1OpdUnM_JSTfUuYS2k_gJaF42OoOQrYhq/view?usp=sharing)
 
 ---
   
