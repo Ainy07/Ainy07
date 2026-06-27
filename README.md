@@ -73,7 +73,7 @@ HRMS Lite is a full-stack Human Resource Management System built with **Django R
 - 📧 Email: [ainygupta00@gmail.com](mailto:ainygupta00@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/ainy-gupta-882917242](https://www.linkedin.com/in/ainy-gupta-882917242) 
 - 💻 GitHub: [github.com/Ainy07](https://github.com/Ainy07)  
-- 🌐 Portfolio: [ainy07.github.io/Portfolio](https://ainy07.github.io/Portfolio/)
+- 🌐 Portfolio: [Portfolio](https://new-portfolio-chi-pearl.vercel.app/)
   
 
 ---
